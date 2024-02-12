@@ -1,6 +1,6 @@
 Hi, I'm Slaaaaate 👋
 
-Hey there! I'm Slate, a passionate brand and digital designer with a knack for tinkering and continuous learning. Here's a bit about me:
+A passionate brand and digital designer with a knack for tinkering and continuous learning. Here's a bit about me:
 
 👀 I have a strong love for the intersection of branding and digital design.
 🌱 Currently, I'm delving into front-end development, 3D design, game development, and sourdough.
